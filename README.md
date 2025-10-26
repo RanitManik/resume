@@ -1,13 +1,14 @@
 # Resume
 
-This repository contains my resume in PDF format.
+This repository contains my **resume** in both **PDF** and **DOCX** formats.  
 
-## File
-- `resume.pdf`: My up-to-date resume.
+## Files
+- `resume.pdf` — My latest resume in PDF format.  
+- `resume.docx` — My resume in DOCX format, compatible with Google Docs.  
 
 ## Usage
-Download or view the `resume.pdf` file to see my professional experience, education, and skills.
+You can **download** or **view** the `resume.pdf` to see my professional experience, education, skills, and accomplishments.  
 
 ---
 
-_Last updated: August 12, 2025_
+*Last updated: October 27, 2025*
